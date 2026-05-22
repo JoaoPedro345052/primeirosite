@@ -1,0 +1,47 @@
+body {
+  background-color: red;
+  color: white
+}
+header {
+  text-align: center;
+  color: gold
+}
+h2 {
+  text-align: center;
+  color: black;
+  background-color: white
+}
+h3 {
+  background-color: white;
+  color: black
+}
+p {
+  background-color: gold;
+  color: black
+}
+.intro {
+  background: red;
+  color: white
+}
+h4 {
+  color: black;
+  background-color: white;
+  text-align: center
+}
+.traco {
+  color: white;
+  background-color: red;
+  text-align: center
+}
+.hf {
+  color: black;
+  background: white
+}
+.n {
+  color: white;
+  background-color: red
+}
+.nm {
+  color: white;
+  background-color: red
+}
