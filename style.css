@@ -1,47 +1,15 @@
 body {
-  background-color: red;
-  color: white
+  background: #6D4C41;
 }
-header {
+h1 {
+  color: #ffffff;
   text-align: center;
-  color: gold
 }
-h2 {
-  text-align: center;
-  color: black;
-  background-color: white
-}
-h3 {
-  background-color: white;
-  color: black
+h2{
+  color: #333333;
+  background: #FFCC80
 }
 p {
-  background-color: gold;
-  color: black
-}
-.intro {
-  background: red;
-  color: white
-}
-h4 {
-  color: black;
-  background-color: white;
-  text-align: center
-}
-.traco {
-  color: white;
-  background-color: red;
-  text-align: center
-}
-.hf {
-  color: black;
-  background: white
-}
-.n {
-  color: white;
-  background-color: red
-}
-.nm {
-  color: white;
-  background-color: red
+  color: #FFF8E1;
+  background: #8D6E63
 }
