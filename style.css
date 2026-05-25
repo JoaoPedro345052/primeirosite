@@ -4,12 +4,15 @@ body {
 h1 {
   color: #ffffff;
   text-align: center;
+  font-size: 45px
 }
-h2{
+h2 {
   color: #333333;
-  background: #FFCC80
+  background: #FFCC80;
+  font-size: 30px;
 }
 p {
   color: #FFF8E1;
-  background: #8D6E63
+  background: #8D6E63;
+  font-size: 15px
 }
