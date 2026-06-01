@@ -2,17 +2,24 @@ body {
   background-color: #6D4C41;
   font-family:Georgia, 'Times New Roman', Times, serif
 }
+
 h1 {
   color: #ffffff;
   font-size: 45px;
 }
+
 h2 {
   color: #333333;
   background-color: #FFCC80;
   font-size: 30px;
+  padding: 10px;
+  border-radius: 10px;
 }
+
 p {
   color: #FFF8E1;
   background-color: #8D6E63;
   font-size: 15px;
+  padding: 20px;
+  border-radius: 10px;
 }
