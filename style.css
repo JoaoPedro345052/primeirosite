@@ -1,6 +1,6 @@
 body {
   background-color: #6D4C41;
-  margin: 150px;
+  margin: 7%;
   font-family:Georgia, 'Times New Roman', Times, serif
 }
 
@@ -8,6 +8,7 @@ body {
 h1 {
   color: #ffffff;
   font-size: 45px;
+  text-align: center
 }
 
 h2 {
